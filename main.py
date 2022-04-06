@@ -592,7 +592,7 @@ def location_handler(update, context):
 
 
 def main():
-    updater = Updater("1699599225:AAGJ-jxsE9kC2f_uJOnJpyXBPxMRv_FgW1w")
+    updater = Updater("1857795301:AAECGGuFXFvBXjo9Ne5zOs9-25bLyMJqBeI")
     dispatcher = updater.dispatcher
 
     dispatcher.add_handler(CommandHandler('start', start_handler))
